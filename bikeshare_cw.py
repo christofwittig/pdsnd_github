@@ -6,6 +6,9 @@ import time
 import pandas as pd
 import numpy as np
 
+# This is my first refactoring!
+# This is my second refactoring!
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
